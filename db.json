@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "status": false
+    },
+    {
+      "title": "Chill & Relax",
+      "status": false,
+      "id": 3,
+      "value": "Teach Akshay"
+    },
+    {
+      "title": "Talk to Manish",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
